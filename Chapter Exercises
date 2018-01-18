@@ -1,0 +1,21 @@
+CHAPTER 1
+
+1.4 
+a) The logical unit of the computer that recieves information from outside the computer for use by the computer is the (Input Unit).
+b) The process of instructing a computer to solve a problem called (programming).
+c) (Assembly) is a type of computer language that uses English-like abbreviations fro machine learning instructions.
+d) (Output unit) is the logical unit of the computer that sends information which has already been processed by the computer to various devices so that it may be used outside the computer.
+e) (Memory unit) and (secondary storage unit) are logical units of the computer that retain information.
+f) (ALU) is a logical unit of the computer that performs calculations.
+g) (ALU) is a logical unit of the computer that makes logical decisions.
+h) (High-level) languages are most conveinent to the programmer fro writing programs.
+i) The only language the computer can directly understand is (machine).
+j) (CPU) is the logical unit of the computer that coordinates the activities of all the other logical units.
+
+1.5
+a) (C) initially became widely known as the development language for the UNIX OS.
+b) The (C++) programming language was developed by Bjarne Stroustrup in the early 1980s at Bell laboritories.
+
+1.6
+a) C++ programs nomally go through 6 phases: (Editing a program, Preproccessing a C++ program, Compiling a C++ program, Linking, Loading, Execution).
+b) An (IDE) provides many tools that support the software development process...
